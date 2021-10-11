@@ -1,0 +1,5 @@
+User: jpx-courier-db-user
+Password: 1234@Tag
+
+
+Scaffold-DbContext "Server=192.168.57.2;Database=JPX_COURIER_DB;user id=jpx-courier-db-user;password=1234@Tag" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DBModels -Context "JpxCourierContext" -DataAnnotations

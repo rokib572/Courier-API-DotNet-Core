@@ -1,0 +1,11 @@
+{
+  "userMobileNo": null, //required
+  "userFirstName": null, //required 50 characters
+  "userLastName": null, //required 50 characters
+  "profilePicture": null,
+  "deviceId": null, //required
+  "deviceType": 0, //required [0=Android, 1=iOS]
+  "fcmToken": null, //required
+  "courierApp": 0, //required [1=Yes 0=NO]
+  "rideshareApp": 0 //required [1=Yes 0=NO]
+}
